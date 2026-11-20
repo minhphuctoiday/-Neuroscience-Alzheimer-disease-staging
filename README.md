@@ -1,5 +1,10 @@
 # **HealthCoder - Alzheimer's Disease Classification**
 
+> **Attribution & Fork Notice:** This repository is adapted and extended from the original [HealthCoder - Alzheimer's Disease Classification](https://github.com/Nirmit1910/alzheimers-detection) project created by [Nirmit Gupta](https://github.com/Nirmit1910), [B. Prithiraj](https://github.com/bprithiraj), and [Sarit Samyak Rath](https://github.com/SARIT42).
+
+### Key Modifications & Extensions (by @minhphuctoiday et al.)
+
+
 ![image](https://github.com/Nirmit1910/alzheimers-detection/assets/65971697/eeec3530-cccd-42c1-a449-4bcfbe283f2a)
 
 
